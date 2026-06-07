@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire every time you pull me near
+> A quiet burning that I only want to hear
+> You trace a line across the shadows in the room
+> And leave me helpless in the middle of the gloom
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
