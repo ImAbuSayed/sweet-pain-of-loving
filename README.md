@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-pain-of-loving/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Sweet Pain Of Loving](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-pain-of-loving/) |
+| **Get License** | [Request Licensing for Sweet Pain Of Loving](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-pain-of-loving/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2f21c67c22248abc57ae5ac61156289f3f4e85b22a770738fee566071dd84dd7` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
